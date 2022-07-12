@@ -3,11 +3,10 @@ import React from 'react';
 const Footer = () => {
     return (
         <div>
-            <footer class="bg-light text-center text-lg-start">
+            <footer className="bg-light text-center text-lg-start">
 
-                <div class="text-center p-3">
-                    © 2020 Copyright:
-                    <a class="text-dark" href="https://mdbootstrap.com/">MDBootstrap.com</a>
+                <div className="text-center p-3">
+                    <p className="text-dark" >Copyright © 2004–2022 Yelp Inc. Yelp, Yelp logo, Yelp burst and related marks are registered trademarks of Yelp.</p>
                 </div>
 
             </footer>

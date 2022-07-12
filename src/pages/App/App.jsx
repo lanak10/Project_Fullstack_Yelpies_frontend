@@ -6,6 +6,7 @@ import Footer from '../../components/Footer/Footer'
 import Home from '../Home/Home'
 import Login from '../Login/Login'
 import SignUp from '../SignUp/SignUp'
+import Businesses from '../Businesses/Businesses'
 // CSS
 import './App.css';
 
@@ -18,6 +19,7 @@ function App() {
         <Route path='/' element={ <Home/> }/>
         <Route path='/login' element={<Login />} />
         <Route path='/signup' element={<SignUp />} />
+        <Route path='/businesses' element={<Businesses />} />
       </Routes>
 
       <Footer/>
