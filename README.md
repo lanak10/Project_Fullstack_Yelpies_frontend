@@ -1,4 +1,26 @@
-# Getting Started with Create React App
+# Yelpies frontend
+
+## Third Party API
+
+*** 
+
+Yelp Fusion API sources: 
+https://www.yelp.com/developers/documentation/v3/get_started
+https://www.yelp.com/developers/documentation/v3/business
+
+## Stretch Goals
+
+***
+
+- Implementing react-icons to mimic Yelp website
+- Displaying reviews in a better format using Card
+- Show entire review text on BusinessDetails page, show other Business details (i.e. name, location, website, etc)
+- Display each User name (first name, last initial) instead of the user_id string. Show affiliated images uploaded by the user for a review
+- CSS for Home Page to mimic Yelp website
+- Modify Search Bar on Home Page so it is split 50/50 into search text and location sections
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
