@@ -20,10 +20,11 @@ const BusinessDetails = () => {
     console.log(reviews) // state reviews
 
     return (
-        <div>
-            Business Details and reviews
+        <div class="card">
+            Business Details and Reviews
             {reviews.map(review => 
-                <div>
+                <div class="card-body">
+                <img src={review.user.image_url} width="50" height="50"></img>
                 <p>{review.text}</p>
                  
                 </div>

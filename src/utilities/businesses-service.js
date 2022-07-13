@@ -5,7 +5,7 @@ const BASE_URL = 'http://localhost:8080/api/v1/businesses'
 
 const baseUrl = `${'https://cors-anywhere.herokuapp.com/'}https://api.yelp.com/v3/businesses/search`
 
-const apiKey = 'f-1jFqVGSwTBaRJlSDcGHZWBJRBbv9fnX1H3TpboI9eUVCsCt3U2eO5zwHkzKBUIFa1Wrg6zb5RCXHa2kKmREYNYSH8--GvkkBdAtLRte22CNVL_81kn3siaZB7OYnYx'
+const apiKey = '3AuFQHw32r3F8xuguK8XVqJ_CtCZNMjopM5EpvEb1Lip5zHRQjZtzbXhbU1PYnFr31i6YyWBYkdisELZQKrFN9PJD1SE6KnSZ3-0NF6eeiZ8fmKpaqBD-aQ2li_OYnYx'
 
 const setOptions = () => {
     return {

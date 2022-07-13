@@ -1,0 +1,18 @@
+.homeImg {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    opacity: 0.95;
+}
+
+#category-cards {
+    display: flex;
+    flex-wrap: wrap;
+    width: 8rem;
+    margin: 2%
+}
+
+/* .card {
+    align-items: center;
+    display: flex;
+} */
